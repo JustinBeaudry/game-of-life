@@ -1,0 +1,36 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid-container {
+    display: grid;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    grid-gap: 0;
+    background-color: #f5f5f5;
+}
+
+.grid-item {
+    background-color: #ccc;
+    outline: 1px solid #000;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.alive {
+    background-color: #000;
+}
+
+canvas {
+    background-color: #fff;
+    border: 1px solid #000;
+}

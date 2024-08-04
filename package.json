@@ -1,0 +1,19 @@
+{
+  "name": "game-of-life",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinBeaudry/game-of-life.git"
+  },
+  "keywords": [],
+  "author": "Justin Beaudry <beaudry.justin@gmail.com>",
+  "license": "Unlicensed",
+  "bugs": {
+    "url": "https://github.com/JustinBeaudry/game-of-life/issues"
+  },
+  "homepage": "https://github.com/JustinBeaudry/game-of-life#readme"
+}
